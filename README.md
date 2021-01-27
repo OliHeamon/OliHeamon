@@ -1,3 +1,3 @@
-### Hi there 👋
+### Oliver Heamon
 
-A-Level computer science student and developer. Familiar with C# and Java.
+A-Level computer science student/developer. Familiar with C# and Java.
