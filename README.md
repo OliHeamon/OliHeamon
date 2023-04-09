@@ -1,3 +1,3 @@
 ### Oliver Heamon
 
-A-Level computer science student/developer. Familiar with C# and Java.
+University of Leeds Biochemist, hobbyist programmer. Familiar with C# and Java.
